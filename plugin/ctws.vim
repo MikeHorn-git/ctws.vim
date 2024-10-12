@@ -1,5 +1,5 @@
 " Plugin name: ctws.vim
-" Description: A plugin to clean trailing whitespace, trailing tabs, and empty line issues automatically on save
+" Description: Removes unwanted tabs and trailing whitespace. Nothing more, nothing less. 
 " https://google.github.io/styleguide/vimscriptguide.xml?showone=Fragile_commands#Fragile_commands
 " https://google.github.io/styleguide/vimscriptguide.xml?showone=Dangerous_commands#Dangerous_commands
 
