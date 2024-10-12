@@ -63,7 +63,7 @@ nnoremap <Leader>ctws :Ctws<CR>
 ## Neovim
 
 ```lua
-vim.keymap.set("n", "<leader>ctws", vim.cmd.Git) -- Ctws [Clean Trailing WhiteSpace]
+vim.keymap.set("n", "<leader>ctws", vim.cmd.Ctws) -- Ctws [Clean Trailing WhiteSpace]
 ```
 
 # Why not use :s[ubstitute] ?
