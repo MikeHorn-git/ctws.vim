@@ -1,7 +1,13 @@
-" Plugin name: ctws.vim
+" =============================================================================
+" Filename: plugin/ctws.vim
 " Description: Removes unwanted tabs and trailing whitespace. Nothing more, nothing less. 
-" https://google.github.io/styleguide/vimscriptguide.xml?showone=Fragile_commands#Fragile_commands
-" https://google.github.io/styleguide/vimscriptguide.xml?showone=Dangerous_commands#Dangerous_commands
+" Author: MikeHorn-git
+" License: MIT License
+" Last Change: 2024/10/14 .
+" Resources: https://google.github.io/styleguide/vimscriptguide.xml?showone=Dangerous_commands#Dangerous_commands
+" =============================================================================
+
+scriptencoding utf-8
 
 function! CleanTrailingWhitespaceAndTabs()
     " Save cursor position
